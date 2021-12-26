@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "target": "es2016",
-    "lib": ["DOM", "ESNext"],
+    "target": "es5",
     "module": "commonjs",
+    "lib": ["DOM", "ESNext"],
     "outDir": "./dist/assets/js",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
