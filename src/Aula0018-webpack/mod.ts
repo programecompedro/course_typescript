@@ -1,1 +1,3 @@
-console.log("sou um modulo");
+export default (): void => {
+  console.log("sou um modulo");
+};
